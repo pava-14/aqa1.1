@@ -27,5 +27,4 @@ public class CashbackHackServiceJUnitTest {
         int expected = 999;
         assertEquals(expected, service.remain(amount));
     }
-
 }

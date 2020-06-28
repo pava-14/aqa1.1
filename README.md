@@ -27,3 +27,5 @@ test {
     useJUnitPlatform()
 }
 ```
+4. Написаны тесты, с использованием API JUnit Jupiter.
+ 
