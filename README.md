@@ -5,15 +5,14 @@
 2. Написаны автотесты на метод ```boundary``.
 
 
-## Часть 1. TestNG
+## Часть 2. JUnit4
 1. Добавлены зависимости 
 ```
 dependencies {
-    testImplementation 'org.testng:testng:7.1.0'
-
+    testImplementation 'junit:junit:4.13'
 }
 
 test {
-    useTestNG()
+    useJUnit()
 }
 ```
