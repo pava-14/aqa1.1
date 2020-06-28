@@ -1,4 +1,4 @@
-#Задача №1 - CashbackHacker
+# Задача №1 - CashbackHacker
 
 ## Краткое описание
 1. Создана ветка testing.
