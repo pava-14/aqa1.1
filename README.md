@@ -17,3 +17,4 @@ test {
     useTestNG()
 }
 ```
+2. Настроен CI
