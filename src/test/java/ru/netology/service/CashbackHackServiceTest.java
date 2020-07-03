@@ -12,7 +12,7 @@ public class CashbackHackServiceTest {
         assertEquals(service.remain(amount), expected);
     }
 
-//    @org.testng.annotations.Test
+    @org.testng.annotations.Test
     public void shouldRemainByAmount1000() {
         int amount = 1000;
         int expected = 0;
