@@ -3,7 +3,6 @@ package ru.netology.service;
 import static org.testng.Assert.assertEquals;
 
 public class CashbackHackServiceTest {
-
     private CashbackHackService service = new CashbackHackService();
 
     @org.testng.annotations.Test
